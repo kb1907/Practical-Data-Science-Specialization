@@ -23,7 +23,7 @@
 
 ## [Course 1 - Analyze Datasets and Train ML Models using AutoML](https://github.com/kb1907/Practical-Data-Science-Specialization/tree/main/Course1_Analyze-Datasets-AutoML)
 
-- [In the first course of the Practical Data Science Specialization](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning), 
+- [In the first course of the Practical Data Science Specialization](https://www.coursera.org/learn/ml-pipelines-bert?specialization=practical-data-science), 
 
 - I learned foundational concepts for exploratory data analysis (EDA), automated machine learning (AutoML), and text classification algorithms. 
 - With Amazon SageMaker Clarify and Amazon SageMaker Data Wrangler, I analyzed a dataset for statistical bias, transform the dataset into machine-readable features, and select the most important features to train a multi-class text classifier.
@@ -40,6 +40,27 @@
 
 
 
+--------------------------------------------------
+
+## [Course 2 - Build, Train, and Deploy ML Pipelines using BERT](https://github.com/kb1907/Practical-Data-Science-Specialization/tree/main/Course1_Analyze-Datasets-AutoML)
+
+- [In the second course of the Practical Data Science Specialization](https://www.coursera.org/learn/ml-pipelines-bert?specialization=practical-data-science), 
+
+- I learned to automate a natural language processing task by building an end-to-end machine learning pipeline using Hugging Face’s highly-optimized implementation of the state-of-the-art BERT algorithm with Amazon SageMaker Pipelines. 
+     - Pipeline first transformed the dataset into BERT-readable features and stored the features in the Amazon SageMaker Feature Store.
+     -  It then fine-tuned a text classification model to the dataset using a Hugging Face pre-trained model, which has learned to understand the human language from millions of Wikipedia documents.
+     -  Finally, pipeline  evaluated the model’s accuracy and only deployed the model if the accuracy exceeds a given threshold. 
+- I stored and managed machine learning features using a feature store.
+- I debug, profiled, tuned and evaluated models while tracking data lineage and model artifacts.
+
+  
+
+**Projects**
+--------------
+- [AWS Data Wrangler - Register and visualize dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Course1_Analyze-Datasets-AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
+- [Detect data bias with Amazon SageMaker Clarify](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Course1_Analyze-Datasets-AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
+- [Train a model with Amazon SageMaker Autopilot](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Course1_Analyze-Datasets-AutoML/Week3/C1_W3_Assignment.ipynb)
+- [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Course1_Analyze-Datasets-AutoML/Week4/C1_W4_Assignment.ipynb)
 
 
 ------------------------------------------------
