@@ -1,7 +1,7 @@
 # Practical Data Science Specialization
 
 
-- In this folder, [Practical Data Science](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
+- In this folder, [Practical Data Science Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 ----------------------------------------
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
