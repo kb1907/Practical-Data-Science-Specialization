@@ -60,6 +60,28 @@
 - [Feature transformation with Amazon SageMaker processing job and Feature Store](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week1/C2_W1_Assignment.ipynb)
 - [Train a review classifier with BERT and Amazon SageMaker](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week2/C2_W2_Assignment.ipynb)
 
+--------------------------------------
+
+
+
+## [Course 3 - Optimize ML Models and Deploy Human-in-the-Loop Pipelines](https://github.com/kb1907/Practical-Data-Science-Specialization/tree/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines)
+
+- [In the third course of the Practical Data Science Specialization](https://www.coursera.org/learn/ml-models-human-in-the-loop-pipelines?specialization=practical-data-science), 
+
+- I learned a series of performance-improvement and cost-reduction techniques to automatically tune model accuracy, compare prediction performance, and generate new training data with human intelligence.  
+- After tuning text classifier using Amazon SageMaker Hyper-parameter Tuning (HPT), I deployed two model candidates into an A/B test to compare their real-time prediction performance and automatically scale the winning model using Amazon SageMaker Hosting. 
+- Lastly, I set up a human-in-the-loop pipeline to fix misclassified predictions and generate new training data using Amazon Augmented AI and Amazon SageMaker Ground Truth.
+
+
+  
+
+**Projects**
+--------------
+- [Optimize models using Automatic Model Tuning](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week1/C3_W1_Assignment.ipynb)
+- [A/B testing, traffic shifting and autoscaling](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week2/C3_W2_Assignment.ipynb)
+-  [Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines/Week3/C3_W3_Assignment.ipynb)
+
+
 
 ------------------------------------------------
 
