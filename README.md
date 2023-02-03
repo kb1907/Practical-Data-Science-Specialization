@@ -15,7 +15,6 @@
 - I worked with Amazon SageMaker BlazingText, a highly optimized and scalable implementation of the popular FastText algorithm, to train a text classifier with very little code.
 
 
-
 ## There are 3 Courses in this Specialization
 --------------------------------------------------
 
