@@ -1,6 +1,5 @@
 # Practical Data Science Specialization
 
-
 - In this folder, [Practical Data Science Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
 ----------------------------------------
 
