@@ -1,4 +1,4 @@
-# Practical Data Science Specialization
+# Practical Data Science on the AWS Cloud Specialization
 
 - In this folder, [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science?) projects and notes can be found.
 ----------------------------------------
