@@ -1,8 +1,9 @@
 # Practical Data Science Specialization
 
-- In this folder, [Practical Data Science Specialization](https://www.coursera.org/specializations/deep-learning) projects and notes can be found.
+- In this folder, [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science?) projects and notes can be found.
 ----------------------------------------
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">, ![image](https://github.com/kb1907/Practical-Data-Science-Specialization/assets/51021282/6b9da93c-ae7d-485a-8a45-6fde356deeda)
+
 
 ## WHAT  I LEARNED
 ------------------------
