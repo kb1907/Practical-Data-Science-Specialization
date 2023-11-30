@@ -59,7 +59,6 @@
 --------------------------------------
 
 
-
 ## [Course 3 - Optimize ML Models and Deploy Human-in-the-Loop Pipelines](https://github.com/kb1907/Practical-Data-Science-Specialization/tree/main/Optimize%20ML%20Models%20and%20Deploy%20Human-in-the-Loop%20Pipelines)
 
 - [In the third course of the Practical Data Science Specialization](https://www.coursera.org/learn/ml-models-human-in-the-loop-pipelines?specialization=practical-data-science), 
