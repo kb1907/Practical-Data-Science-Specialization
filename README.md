@@ -1,6 +1,7 @@
 # Practical Data Science on the AWS Cloud Specialization
 
-- In this folder, [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science?) projects and notes can be found.
+This folder contains [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science?) projects and notes.
+
 
 ----------------------------------------
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">, <img src="https://github.com/kb1907/Practical-Data-Science-Specialization/assets/51021282/6b9da93c-ae7d-485a-8a45-6fde356deeda" width="300" height="300">
@@ -9,7 +10,7 @@
 ------------------------
 - I learned foundational concepts for exploratory data analysis (EDA), automated machine learning (AutoML), and text classification algorithms. 
 - With Amazon SageMaker Clarify and Amazon SageMaker Data Wrangler, I analyzed a dataset for statistical bias, transformed the dataset into machine-readable features, and selected the most important features to train a multi-class text classifier.
-- I performed automated machine learning (AutoML) to automatically train, tune, and deploy the best text-classification algorithm for the given dataset using Amazon SageMaker Autopilot.
+- I performed automated machine learning (AutoML) to train, tune, and deploy the best text-classification algorithm for the given dataset using Amazon SageMaker Autopilot.
 - I worked with Amazon SageMaker BlazingText, a highly optimized and scalable implementation of the popular FastText algorithm, to train a text classifier with very little code.
 
 
