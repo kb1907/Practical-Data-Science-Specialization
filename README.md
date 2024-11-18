@@ -3,7 +3,6 @@
 This folder contains [Practical Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science?) projects and notes.
 
 
-
 ----------------------------------------
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">, <img src="https://github.com/kb1907/Practical-Data-Science-Specialization/assets/51021282/6b9da93c-ae7d-485a-8a45-6fde356deeda" width="300" height="300">
 
