@@ -21,7 +21,7 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - [In the first course of the Practical Data Science Specialization](https://www.coursera.org/learn/automl-datasets-ml-models), 
 
 - I learned foundational concepts for exploratory data analysis (EDA), automated machine learning (AutoML), and text classification algorithms. 
-- With Amazon SageMaker Clarify and Amazon SageMaker Data Wrangler, I analyzed a dataset for statistical bias, transform the dataset into machine-readable features, and select the most important features to train a multi-class text classifier.
+- With Amazon SageMaker Clarify and Amazon SageMaker Data Wrangler, I analyzed a dataset for statistical bias, transformed it into machine-readable features, and selected the most important features to train a multi-class text classifier.
 - I performed automated machine learning (AutoML) to automatically train, tune, and deploy the best text-classification algorithm for the given dataset using Amazon SageMaker Autopilot.
 - I worked with Amazon SageMaker BlazingText, a highly optimized and scalable implementation of the popular FastText algorithm, to train a text classifier with very little code.
 
