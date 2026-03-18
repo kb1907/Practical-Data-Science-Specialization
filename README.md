@@ -12,7 +12,6 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - I performed automated machine learning (AutoML) to train, tune, and deploy the best text-classification algorithm for the given dataset using Amazon SageMaker Autopilot.
 - I worked with Amazon SageMaker BlazingText, a highly optimized and scalable implementation of the popular FastText algorithm, to train a text classifier with very little code.
 
-
 ## There are 3 Courses in this Specialization
 --------------------------------------------------
 
