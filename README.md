@@ -23,6 +23,7 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - With Amazon SageMaker Clarify and Amazon SageMaker Data Wrangler, I analyzed a dataset for statistical bias, transformed it into machine-readable features, and selected the most important features to train a multi-class text classifier.
 - I performed automated machine learning (AutoML) to automatically train, tune, and deploy the best text-classification algorithm for the given dataset using Amazon SageMaker Autopilot.
 - I worked with Amazon SageMaker BlazingText, a highly optimized and scalable implementation of the popular FastText algorithm, to train a text classifier with very little code.
+  
 
 **Projects**
 --------------
