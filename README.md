@@ -24,14 +24,12 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - I performed automated machine learning (AutoML) to automatically train, tune, and deploy the best text-classification algorithm for the given dataset using Amazon SageMaker Autopilot.
 - I worked with Amazon SageMaker BlazingText, a highly optimized and scalable implementation of the popular FastText algorithm, to train a text classifier with very little code.
   
-
 **Projects**
 --------------
 - [AWS Data Wrangler - Register and visualize dataset](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week1/C1_W1_Assignment_Learner.ipynb)
 - [Detect Data Bias with Amazon SageMaker Clarify](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
 - [Train a Model with Amazon SageMaker Autopilot](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 - [Train a Text Classifier using Amazon SageMaker BlazingText built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
-
 
 
 
