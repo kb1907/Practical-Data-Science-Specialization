@@ -31,18 +31,16 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - [Train a Model with Amazon SageMaker Autopilot](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 - [Train a Text Classifier using Amazon SageMaker BlazingText built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
 
-
-
 --------------------------------------------------
 
 ## [Course 2 - Build, Train, and Deploy ML Pipelines using BERT](https://github.com/kb1907/Practical-Data-Science-Specialization/tree/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT)
 
 - [In the second course of the Practical Data Science Specialization](https://www.coursera.org/learn/ml-pipelines-bert?specialization=practical-data-science), 
 
-- I learned to automate a natural language processing task by building an end-to-end machine learning pipeline using Hugging Face’s highly-optimized implementation of the state-of-the-art BERT algorithm with Amazon SageMaker Pipelines. 
-     - Pipeline first transformed the dataset into BERT-readable features and stored the features in the Amazon SageMaker Feature Store.
+- I learned to automate a natural language processing task by building an end-to-end machine learning pipeline using Hugging Face’s highly optimized implementation of the state-of-the-art BERT algorithm with Amazon SageMaker Pipelines. 
+     - The pipeline first transformed the dataset into BERT-readable features and stored the features in the Amazon SageMaker Feature Store.
      -  It then fine-tuned a text classification model to the dataset using a Hugging Face pre-trained model, which has learned to understand the human language from millions of Wikipedia documents.
-     -  Finally, pipeline  evaluated the model’s accuracy and only deployed the model if the accuracy exceeds a given threshold. 
+     -  Finally, the pipeline  evaluated the model’s accuracy and only deployed the model if the accuracy exceeds a given threshold. 
 - I stored and managed machine learning features using a feature store.
 - I debug, profiled, tuned and evaluated models while tracking data lineage and model artifacts.
 
