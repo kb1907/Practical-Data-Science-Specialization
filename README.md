@@ -39,10 +39,10 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 
 - I learned to automate a natural language processing task by building an end-to-end machine learning pipeline using Hugging Face’s highly optimized implementation of the state-of-the-art BERT algorithm with Amazon SageMaker Pipelines. 
      - The pipeline first transformed the dataset into BERT-readable features and stored the features in the Amazon SageMaker Feature Store.
-     -  It then fine-tuned a text classification model to the dataset using a Hugging Face pre-trained model, which has learned to understand the human language from millions of Wikipedia documents.
-     -  Finally, the pipeline  evaluated the model’s accuracy and only deployed the model if the accuracy exceeds a given threshold. 
+     -  It then fine-tuned a text classification model on the dataset using a Hugging Face pre-trained model, which has learned to understand human language from millions of Wikipedia documents.
+     -  Finally, the pipeline  evaluated the model’s accuracy and only deployed the model if the accuracy exceeded a given threshold. 
 - I stored and managed machine learning features using a feature store.
-- I debug, profiled, tuned and evaluated models while tracking data lineage and model artifacts.
+- I debugged, profiled, tuned, and evaluated models while tracking data lineage and model artifacts.
 
   
 
