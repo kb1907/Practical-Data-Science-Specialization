@@ -30,6 +30,7 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - [Detect Data Bias with Amazon SageMaker Clarify](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week2/C1_W2_Assignment_Detect_data_bias_with_Amazon_SageMaker_Clarify.ipynb)
 - [Train a Model with Amazon SageMaker Autopilot](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week3/C1_W3_Assignment.ipynb)
 - [Train a Text Classifier using Amazon SageMaker BlazingText built-in algorithm](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Analyze%20Datasets%20AutoML/Week4/C1_W4_Assignment.ipynb)
+  
 --------------------------------------------------
 
 ## [Course 2 - Build, Train, and Deploy ML Pipelines using BERT](https://github.com/kb1907/Practical-Data-Science-Specialization/tree/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT)
