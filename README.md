@@ -59,7 +59,7 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - [In the third course of the Practical Data Science Specialization](https://www.coursera.org/learn/ml-models-human-in-the-loop-pipelines?specialization=practical-data-science), 
 
 - I learned a series of performance-improvement and cost-reduction techniques to automatically tune model accuracy, compare prediction performance, and generate new training data with human intelligence.  
-- After tuning text classifier using Amazon SageMaker Hyper-parameter Tuning (HPT), I deployed two model candidates into an A/B test to compare their real-time prediction performance and automatically scale the winning model using Amazon SageMaker Hosting. 
+- After tuning text classifier using Amazon SageMaker Hyperparameter Tuning (HPT), I deployed two model candidates into an A/B test to compare their real-time prediction performance and automatically scale the winning model using Amazon SageMaker Hosting. 
 - Lastly, I set up a human-in-the-loop pipeline to fix misclassified predictions and generate new training data using Amazon Augmented AI and Amazon SageMaker Ground Truth.
 
 
