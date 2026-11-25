@@ -44,8 +44,6 @@ This folder contains [Practical Data Science on the AWS Cloud Specialization](ht
 - I stored and managed machine learning features using a feature store.
 - I debugged, profiled, tuned, and evaluated models while tracking data lineage and model artifacts.
 
-  
-
 **Projects**
 --------------
 - [Feature transformation with Amazon SageMaker processing job and Feature Store](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/Build%20Train%20and%20Deploy%20ML%20Pipelines%20using%20BERT/Week1/C2_W1_Assignment.ipynb)
